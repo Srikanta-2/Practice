@@ -5,7 +5,6 @@ Given given url is present
 When running url in browser
 Then url open successfully
 
-@tag1
 Scenario Outline: login page
 
 Given user navigates to Login page
@@ -15,3 +14,4 @@ Then login should be successful
 Examples: 
 |username|password|
 |Sri     |Sri123|
+|ram     |ram@123|

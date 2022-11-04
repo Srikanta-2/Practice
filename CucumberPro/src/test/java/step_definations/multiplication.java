@@ -39,5 +39,6 @@ public class multiplication{
 	    public void url_open_successfully() throws Throwable {
 	    	 System.out.println("url open successfully");
 	    }
+	    
 	
 }
